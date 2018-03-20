@@ -1,29 +1,43 @@
 # Hoya Hacks (2019) Todo
-## Files
+
+### Team Acquisition
+- [ ] Create applications
+- [ ] Determine New Team
+
+### Files
 - [ ] Re-organize Google Drive
 
-## Inventory
+### Inventory
 - [ ] Create Inventory List
 
-## Sponsorship
+### Sponsorship
 - [ ] Fix Sponsorship Packages
     - [ ] Get raw files
 
-## Website
-- [ ] Migrate Hosting
-- [ ] Revamp Website
-    - [ ] Preliminary Changes to get Sponsorship started
-- [ ] Summer Project: Redesign Website
+### Food
+- [ ] Research Local Businesses
 
-### Blog
-- [ ] **Need:** Bloggers
+### [Website](web/TODO.md)
+- [ ] Migrate to New Hosting
+- [ ] Revamp Website
+    - [ ] Preliminary Changes (To begin Sponsorship Calls)
+- [ ] Summer Project: Redesign Website
+    - [ ] Announce New Team on Website Redesign
+
+#### Blog
+- [ ] **Need:** Volunteers to Blog
 - [ ] Plan Out the Year
 
 ### Media / Marketing
 - [ ] **Need:** Head of Marketing
 - [ ] **Need:** Photographer / Videographer
 
-## Goals of the 2019 Season
+### Future Ideas:
+- Become a SAC Organization
+- Workshops that Lead up to Event
+    - Skill-Building Workshops
+
+## Goals for the 2019 Season
 TBD
 
 
