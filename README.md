@@ -1,7 +1,8 @@
 # Hoya Hacks 2019 Season
 
 ## TODOs:
-## Director Meetings:
+
+### Director Meetings:
 - [ ] Establish Biweekly Meeting
 
 ### Team Acquisition
