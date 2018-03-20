@@ -17,6 +17,9 @@
 ### Food
 - [ ] Research Local Businesses
 
+### Hacker Experience
+- [ ] Plan Out Stress-free Events
+
 ### [Website](web/TODO.md)
 - [ ] Migrate to New Hosting
 - [ ] Revamp Website

@@ -1,9 +1,8 @@
 # Website TODOs
 ### Redesign
-- ReactJS
--
+- Switch Hosting Platform
+    - Deploy ReactJS website
 
 ### New Pages
 - Team Member
-- 
 - [Blog](web/blog/TODO.md)
