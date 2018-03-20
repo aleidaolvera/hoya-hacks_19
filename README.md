@@ -1,8 +1,26 @@
-# Hoya Hacks (2019) Todo
+# Hoya Hacks 2019 Season
 
+## TODOs:
 ### Team Acquisition
-- [ ] Create applications
+- [ ] Create Application
 - [ ] Determine New Team
+
+### Team Building
+- [ ] Team Retreat
+- [ ] Team Bonding
+    - [ ] Hoya Hacks Dinners
+
+### Task Management
+- [ ] Year Long Calendar
+- [ ] Find Task Manager
+    - Asana
+- [ ] Biweekly Meetings (Individual Team)
+- [ ] Monthly Meeting (Overall Team - Rotation)
+    - _**Special Events**_ for Monthly Meetings
+
+### Hoya Hacks: The Organization
+- [ ] [Blog](web/blog/TODO.md)
+- [ ] Partner with Clubs
 
 ### Files
 - [ ] Re-organize Google Drive
@@ -16,6 +34,11 @@
 
 ### Food
 - [ ] Research Local Businesses
+
+### Speakers
+- [ ] Start Reaching Out
+    - [ ] Advertised if Locked Down
+- [ ] Talk to UIS About Compenstaion
 
 ### Hacker Experience
 - [ ] Plan Out Stress-free Events
@@ -42,16 +65,30 @@
 - [ ] **Need:** Volunteers to Blog
 - [ ] Plan Out the Year
 
-### Media / Marketing
+### Media
 - [ ] **Need:** Head of Marketing
 - [ ] **Need:** Photographer / Videographer
+    - [ ] Team Photos
+
+### Marketing
+- [ ] Create a Connections with Universities
+    - [ ] Send Volunteers / Participants to Hackathons
+- [ ] Help Build out Hackathons
+- [ ] Create a Color Palette
+
+### Transportation
+- [ ] Update Travel Reimbursement Forms
+- [ ] Create a Transportation System
+
+### Volunteers
+- [ ] Create Volunteer Application
 
 ### Future Ideas:
 - Become a SAC Organization
 - Workshops that Lead up to Event
     - Skill-Building Workshops
 
-## Goals for the 2019 Season
-TBD
+## Goals:
+
 
 > **_Created by Directors Aleida Olvera and Brandon Herren_**

@@ -5,7 +5,7 @@
 - Add Chatbot
 
 ### Redesign
--
+- Preliminary Design
 
 ### Graphics and Animations
 - Loading Animations

@@ -1,8 +1,9 @@
 # Blog TODOs:
 - [ ] Get Blog Team
 - [ ] Plan out the Year
+    - [ ] Create a Calendar
 - [ ] **Need:** Monthly Posts
-    - [ ] _**Preferred: **_ Biweekly
+    - [ ] _**Preferred:**_ Biweekly
 
 ## Posts
 - Workshops
