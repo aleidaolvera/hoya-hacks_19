@@ -20,4 +20,4 @@
 - Meet the Team
 - How to Sponsor
 - MLH Code of Conduct
-- [Blog](web/blog/TODO.md)
+- [Blog](blog/TODO.md)
