@@ -19,6 +19,17 @@
 
 ### Hacker Experience
 - [ ] Plan Out Stress-free Events
+- [ ] Getting a Job in CS:
+    - [ ] Resume Building
+    - [ ] Mock Technical Interviews
+
+### Judges
+- [ ] Talk to CS Department
+- [ ] Get Judges from Sponsors
+
+### Prizes
+- [ ] Talk to Sponsors
+    - [ ] Branded Prizes
 
 ### [Website](web/TODO.md)
 - [ ] Migrate to New Hosting
@@ -43,5 +54,4 @@
 ## Goals for the 2019 Season
 TBD
 
-
-> Created by Directors Aleida Olvera and Brandon Herren
+> **_Created by Directors Aleida Olvera and Brandon Herren_**
