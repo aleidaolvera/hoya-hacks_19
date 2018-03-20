@@ -74,10 +74,11 @@
     - [ ] Team Photos
 
 ### Marketing
+- [ ] Create a Color Palette
+- [ ] Mailchimp
 - [ ] Create a Connections with Universities
     - [ ] Send Volunteers / Participants to Hackathons
 - [ ] Help Build out Hackathons
-- [ ] Create a Color Palette
 
 ### Transportation
 - [ ] Update Travel Reimbursement Forms
