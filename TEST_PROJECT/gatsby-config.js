@@ -2,6 +2,7 @@ module.exports = {
   siteMetadata: {
     title: 'Gatsby Default Starter',
   },
+  pathPrefix: "/hoya-hacks_19",
   plugins: [
     'gatsby-plugin-react-helmet',
     {
